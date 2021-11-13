@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855396126858",
+    "project_id": "trucktracker-b895d",
+    "storage_bucket": "trucktracker-b895d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855396126858:android:1d3454be37ee21de3e1d73",
+        "android_client_info": {
+          "package_name": "com.example.trucktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855396126858-nut3hire7kbp62bhg4t7bpnkd4dtk4bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmiugvx69BNySquDYO-XQPbaafWh4nwS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855396126858-nut3hire7kbp62bhg4t7bpnkd4dtk4bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
